@@ -1,0 +1,16 @@
+// Custom bootstrap variables must be set or imported *before* bootstrap.
+@import "bootstrap";
+
+dt, dd {
+  width: 50%;
+  float: left;
+}
+
+table {
+  width: 50%;
+
+  td {
+    vertical-align: top;
+  }
+}
+
